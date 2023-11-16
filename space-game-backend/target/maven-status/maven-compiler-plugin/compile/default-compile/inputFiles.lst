@@ -1,0 +1,12 @@
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/HealthCheckController.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/ShieldController.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/dto/HealthAppStatusDto.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/PowerPlantController.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/EngineController.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/dto/PowerPlantDto.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/dto/ShipStatusDto.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/Main.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/security/SecurityConfigurations.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/dto/EngineDto.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/ShipStatusController.java
+/home/cleidson/_dev/projects/space-game/space-game-backend/src/main/java/org/cleidson/controller/dto/ShieldDto.java

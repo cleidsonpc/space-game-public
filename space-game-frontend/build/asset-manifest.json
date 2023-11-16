@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df9243c1.css",
+    "main.js": "/static/js/main.d5eddd04.js",
+    "static/js/787.866f6f98.chunk.js": "/static/js/787.866f6f98.chunk.js",
+    "static/media/ship_panel_2.png": "/static/media/ship_panel_2.69b7fd0c1c6465f6ea74.png",
+    "static/media/space_background.gif": "/static/media/space_background.d67c261d290b9d652067.gif",
+    "static/media/space_background.jpg": "/static/media/space_background.540101109d434b837e2d.jpg",
+    "static/media/lights_on_off_2.png": "/static/media/lights_on_off_2.e335d54c45ba363ca5bf.png",
+    "static/media/panel_switch_4.png": "/static/media/panel_switch_4.d2304f0172614e840400.png",
+    "index.html": "/index.html",
+    "main.df9243c1.css.map": "/static/css/main.df9243c1.css.map",
+    "main.d5eddd04.js.map": "/static/js/main.d5eddd04.js.map",
+    "787.866f6f98.chunk.js.map": "/static/js/787.866f6f98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9243c1.css",
+    "static/js/main.d5eddd04.js"
+  ]
+}
